@@ -3,13 +3,18 @@
 
 
 
-<div style="display: flex;">
+<!-- Colocando dos GIFs uno al lado del otro -->
+<div style="display: flex; gap: 10px;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FyM3R2b3owdnpjaGYxdWFudHJoeXNicmRycXJsM3c1MG51cjdlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QakB1geYR7W20PX2Mt/giphy.gif" alt="Gif de ejemplo" width="200"/>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNqdXE4cjd3b256eTZwcjBwZ2MxdW5hcnpyNHAzMzc0azhuZXlhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1rN4oaHnY7NfIIPjGJ/giphy.gif" alt="Gif divertido" width="200"/>
-  <img src="URL_DEL_GIF" alt="Yovngchimi Drip GIF" width="200"/>
-
-
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdno5Nm5leHN4amo0cm43YjM5cTU0eXJsNm9zOTdlODdxMnEyeTlseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zYEEIIdx3hilfvsvDG/giphy.gif" alt="Gif divertido" width="200"/>
 </div>
+
+<!-- Un tercer GIF por separado -->
+<img src="https://media1.tenor.com/m/E62TBfjDqOYAAAAd/luar-la-l-ozuna.gif" alt="Gif extra" width="200"/>
+
+<!-- Tenor GIF: Recuerda que GitHub no permite ejecutar scripts. 
+     Debes obtener la URL directa del GIF y reemplazar "URL_DIRECTA_DEL_GIF" -->
+<img src="URL_DIRECTA_DEL_GIF" alt="Luar La L GIF" width="200"/>
 
 
 

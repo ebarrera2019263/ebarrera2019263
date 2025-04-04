@@ -4,14 +4,16 @@
 
 
 <!-- Colocando dos GIFs uno al lado del otro -->
+## Top de Artistas
+
 <div style="display: flex; gap: 10px;">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FyM3R2b3owdnpjaGYxdWFudHJoeXNicmRycXJsM3c1MG51cjdlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QakB1geYR7W20PX2Mt/giphy.gif" alt="Gif de ejemplo" width="200"/>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdno5Nm5leHN4amo0cm43YjM5cTU0eXJsNm9zOTdlODdxMnEyeTlseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zYEEIIdx3hilfvsvDG/giphy.gif" alt="Gif divertido" width="200"/>
-  <img src="https://media1.tenor.com/m/E62TBfjDqOYAAAAd/luar-la-l-ozuna.gif" alt="Gif extra" width="250"/>
-  
+  <img src="https://media1.tenor.com/m/4ksiAnMsrY4AAAAC/eladio-dios.gif" alt="Eladio Dios" width="200"/>
+  <img src="https://media1.tenor.com/m/E62TBfjDqOYAAAAd/luar-la-l-ozuna.gif" alt="Luar La L Ozuna" width="200"/>
+  <img src="https://media1.tenor.com/m/7KY27m6XsCUAAAAC/myke-towers.gif" alt="Myke Towers" width="200"/>
+  <img src="https://media1.tenor.com/m/p1ULMwVxxdsAAAAd/bailando-anuel-aa.gif" alt="Bailando Anuel AA" width="200"/>
+  <img src="https://media1.tenor.com/m/0-XZaLrp8UoAAAAC/jhay-cortez-como-se-siente.gif" alt="Jhay Cortez" width="200"/>
 </div>
 
-<img src="https://media1.tenor.com/m/E62TBfjDqOYAAAAd/luar-la-l-ozuna.gif](https://media1.tenor.com/m/4ksiAnMsrY4AAAAC/eladio-dios.gif" alt="Gif extra" width="250"/>
 
 
 

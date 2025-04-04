@@ -6,41 +6,13 @@
 ## Top de Artistas
 
 <div style="display: flex; gap: 10px;">
-  <!-- Eladio -->
-  <img 
-    src="https://media1.tenor.com/m/4ksiAnMsrY4AAAAC/eladio-dios.gif" 
-    alt="Eladio" 
-    style="width:200px; height:200px; object-fit: cover;" 
-  />
-  
-  <!-- Luar La L & Ozuna -->
-  <img 
-    src="https://media1.tenor.com/m/E62TBfjDqOYAAAAd/luar-la-l-ozuna.gif" 
-    alt="Luar La L & Ozuna" 
-    style="width:200px; height:200px; object-fit: cover;" 
-  />
-  
-  <!-- Myke Towers -->
-  <img 
-    src="https://media1.tenor.com/m/7KY27m6XsCUAAAAC/myke-towers.gif" 
-    alt="Myke Towers" 
-    style="width:200px; height:200px; object-fit: cover;" 
-  />
-  
-  <!-- Anuel AA -->
-  <img 
-    src="https://media1.tenor.com/m/p1ULMwVxxdsAAAAd/bailando-anuel-aa.gif" 
-    alt="Anuel AA" 
-    style="width:200px; height:200px; object-fit: cover;" 
-  />
-  
-  <!-- Jhay Cortez -->
-  <img 
-    src="https://media1.tenor.com/m/0-XZaLrp8UoAAAAC/jhay-cortez-como-se-siente.gif" 
-    alt="Jhay Cortez" 
-    style="width:200px; height:200px; object-fit: cover;" 
-  />
+  <img src="https://media1.tenor.com/m/4ksiAnMsrY4AAAAC/eladio-dios.gif" alt="Eladio Dios" width="200"/>
+  <img src="https://media1.tenor.com/m/E62TBfjDqOYAAAAd/luar-la-l-ozuna.gif" alt="Luar La L Ozuna" width="200"/>
+  <img src="https://media1.tenor.com/m/7KY27m6XsCUAAAAC/myke-towers.gif" alt="Myke Towers" width="200"/>
+  <img src="https://media1.tenor.com/m/p1ULMwVxxdsAAAAd/bailando-anuel-aa.gif" alt="Bailando Anuel AA" width="200"/>
+  <img src="https://media1.tenor.com/m/0-XZaLrp8UoAAAAC/jhay-cortez-como-se-siente.gif" alt="Jhay Cortez" width="200"/>
 </div>
+
 
 
 

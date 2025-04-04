@@ -7,8 +7,6 @@
 
 <div style="display: flex; gap: 10px;">
   <img src="https://media1.tenor.com/m/4ksiAnMsrY4AAAAC/eladio-dios.gif" alt="Eladio Dios" style="width:200px; height:auto;" />
-  <img src="https://media1.tenor.com/m/E62TBfjDqOYAAAAd/luar-la-l-ozuna.gif" alt="Luar La L & Ozuna" style="width:200px; height:auto;" />
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXV6anYyZDhsYng3b2I1djZ5aGs0YTVydTVud3FsbDhvcTkzZzNxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9BQcSgIMk1kEMXkj4i/giphy.gif" alt="Myke Towers" style="width:200px; height:auto;" />
   <img src="https://media1.tenor.com/m/p1ULMwVxxdsAAAAd/bailando-anuel-aa.gif" alt="Bailando Anuel AA" style="width:200px; height:auto;" />
   <img src="https://media1.tenor.com/m/CGew6Pqc4PoAAAAC/pose-jhay-cortez.gif" alt="Pose Jhay Cortez" style="width:200px; height:auto;" />
 </div>

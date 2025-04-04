@@ -6,6 +6,8 @@
 <div style="display: flex;">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FyM3R2b3owdnpjaGYxdWFudHJoeXNicmRycXJsM3c1MG51cjdlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QakB1geYR7W20PX2Mt/giphy.gif" alt="Gif de ejemplo" width="200"/>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHNqdXE4cjd3b256eTZwcjBwZ2MxdW5hcnpyNHAzMzc0azhuZXlhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1rN4oaHnY7NfIIPjGJ/giphy.gif" alt="Gif divertido" width="200"/>
+  <img src="URL_DEL_GIF" alt="Yovngchimi Drip GIF" width="200"/>
+
 
 </div>
 

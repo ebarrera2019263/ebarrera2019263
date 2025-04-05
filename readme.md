@@ -67,16 +67,29 @@ will_learn: ["Blockchain (backend)"]
 hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ```
 
-## 🎶 Mis Playlists de Spotify
+## 🎵 Mis vibes musicales
 
-<p align="center">
-  <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="_blank">
-    <img src="https://mosaic.scdn.co/640/ab67616d0000b27344aebf6ae06764b3b883aa92ab67616d0000b273a194bfae7fbd4d75f23ce93fab67616d0000b273f1c1b0f72fd97d3c06ce3be1ab67616d0000b273ffda148d778b0c3b90ba7291" width="300" />
-  </a>
-  <br/>
-  <b><a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="_blank">🔥 Daily Mix</a></b>
-</p>
-
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U">
+        <img src="https://i.scdn.co/image/ab67706f0000000252929be7a7edcd2ecdd0f7d7" width="150" /><br/>
+        <sub><b>Chill Hits</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/playlist/37i9dQZF1DX1s9knjP51Oa">
+        <img src="https://i.scdn.co/image/ab67706f000000021b54c76cdb369f3c89a998b5" width="150" /><br/>
+        <sub><b>RapCaviar</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6">
+        <img src="https://i.scdn.co/image/ab67706f00000002b3a8a7082ee6ed5f087f7d4d" width="150" /><br/>
+        <sub><b>Peaceful Piano</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 

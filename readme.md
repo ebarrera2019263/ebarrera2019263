@@ -40,7 +40,6 @@
 
 
 
-
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ```yaml
@@ -69,100 +68,12 @@ hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ```
 
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22xycl42ydcokul4u7yxxj7aa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
 </p>
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=22xycl42ydcokul4u7yxxj7aa&count=5">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
 </p>
 
 
-
-**:zap: Recent Activity:**
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/T0k4m4K/H1DR4_AGENT/pull/1) in [T0k4m4K/H1DR4_AGENT](https://github.com/T0k4m4K/H1DR4_AGENT)
-2. ❌ Closed PR [#1](https://github.com/HunterTheAgent/H1DR4_AGENT/pull/1) in [HunterTheAgent/H1DR4_AGENT](https://github.com/HunterTheAgent/H1DR4_AGENT)
-3. 💪 Opened PR [#1](https://github.com/HunterTheAgent/H1DR4_AGENT/pull/1) in [HunterTheAgent/H1DR4_AGENT](https://github.com/HunterTheAgent/H1DR4_AGENT)
-4. 🎉 Merged PR [#1](https://github.com/guilyx/guilyx.github.io/pull/1) in [guilyx/guilyx.github.io](https://github.com/guilyx/guilyx.github.io)
-5. 💪 Opened PR [#1](https://github.com/guilyx/guilyx.github.io/pull/1) in [guilyx/guilyx.github.io](https://github.com/guilyx/guilyx.github.io)
-<!--END_SECTION:activity-->
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C961%20hrs%2052%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-75.1%20million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 335.8 kB Used in GitHub's Storage 
- > 
-> 🏆 261 Contributions in the Year 2025
- > 
-> 💼 Opted to Hire
- > 
-> 📜 73 Public Repositories 
- > 
-> 🔑 18 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                360 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-🌆 Daytime                2428 commits        █████████░░░░░░░░░░░░░░░░   35.55 % 
-🌃 Evening                3035 commits        ███████████░░░░░░░░░░░░░░   44.44 % 
-🌙 Night                  1007 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-Python                   4 hrs 6 mins        ████████████░░░░░░░░░░░░░   47.40 % 
-Bash                     52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-CSV                      51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-TypeScript               42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Markdown                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-
-🐱‍💻 Projects: 
-loop-dune                5 hrs 11 mins       ███████████████░░░░░░░░░░   59.89 % 
-hunter-agent             1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-terminal                 38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-loop                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-loop-data-retrievers     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-```
-
-
- Last Updated on 04/04/2025 12:47:00 UTC
-<!--END_SECTION:waka-->
-
-<!--START_SECTION:waka-simple-->
-
-```text
-From: 16 July 2020 - To: 03 April 2025
-
-Total Time: 1,963 hrs 30 mins
-
-C++                708 hrs 34 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   36.09 %
-Go                 313 hrs 18 mins ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.96 %
-Python             270 hrs 48 mins ⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.79 %
-C                  145 hrs 2 mins  ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.39 %
-Bash               91 hrs 36 mins  ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.67 %
-YAML               88 hrs 2 mins   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.48 %
-```
-
-<!--END_SECTION:waka-simple-->
-
-Liked it ?
-
-*ERC-20 / EVM: **0x07ed706146545d01fa66a3c08ebca8c93a0089e5***
-
-*BTC: **bc1q3lu85cfkrc20ut64v90y428l79wfnv83mu72jv***
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
 

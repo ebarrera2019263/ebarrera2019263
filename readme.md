@@ -67,13 +67,16 @@ will_learn: ["Blockchain (backend)"]
 hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
 ```
 
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11147618695&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p>
+## 🎶 Mis Playlists de Spotify
 
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="_blank">
+    <img src="https://mosaic.scdn.co/640/ab67616d0000b27344aebf6ae06764b3b883aa92ab67616d0000b273a194bfae7fbd4d75f23ce93fab67616d0000b273f1c1b0f72fd97d3c06ce3be1ab67616d0000b273ffda148d778b0c3b90ba7291" width="300" />
+  </a>
+  <br/>
+  <b><a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" target="_blank">🔥 Daily Mix</a></b>
 </p>
+
 
 
 

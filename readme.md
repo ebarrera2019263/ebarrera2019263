@@ -42,54 +42,6 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=guilyx&theme=github-dark-dimmed&custom_title=Guilyx%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-```yaml
-name: Erwin Lejeune
-located_in: Abu Dhabi, UAE
-from: Nantes (France)
-job: Senior Robotics Software Engineer
-education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
-company: Technology Innovation Institute
-past experiences:
-  - ["Robotics Software Engineer", "UAV Swarms", "Technology Innovation Institute", "UAE", "2022-2023"]
-  - ["Sr Robotics Software Engineer", "UGV Navigation", "Coalescent Mobile Robotics", "Denmark", "2021-2022"]
-  - ["Backend Software Engineer", "Web App Backend (Go/Postgre)", "Hiventive", "Fully Remote", "2020-2021"]
-  - ["Robotics Researcher", "AI Planning/Control", "LS2N", "France", "2019-2021]
-  - ["Robotics Intern", "UGVs", "Ingeniarius", "Portugal", "2019"]
-  - ["Embedded Systems Engineer", "STM32 Virtualization", "Hiventive", "France", "2018-2019"]
-  - ["Robotics Intern", "UGVs", "Laboratory of Digital Sciences of Nantes (LS2N)", "France", "2019"]
 
-fields_of_interests: ["Path Planning", "Trajectory Planning", "Path Following", "Behaviour Planning", 
-                      "Localization", "Sensor Fusion", "Embedded Systems"]
-technical_background: ["Motion Planning", "Optimization", 
-                       "Nonlinear Control", "Real-Time Systems", "Automated Planning"]
-currently_learning: ["Web3", "React", "Vue"]
-will_learn: ["Blockchain (backend)"]
-hobbies: ["Basketball", "Cinema", "Competitive Gaming", "IoT"]
-```
-
-## 🎵 Mis vibes musicales
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U">
-        <img src="https://i.scdn.co/image/ab67706f0000000252929be7a7edcd2ecdd0f7d7" width="150" /><br/>
-        <sub><b>Chill Hits</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/playlist/37i9dQZF1DX1s9knjP51Oa">
-        <img src="https://i.scdn.co/image/ab67706f000000021b54c76cdb369f3c89a998b5" width="150" /><br/>
-        <sub><b>RapCaviar</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6">
-        <img src="https://i.scdn.co/image/ab67706f00000002b3a8a7082ee6ed5f087f7d4d" width="150" /><br/>
-        <sub><b>Peaceful Piano</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
 

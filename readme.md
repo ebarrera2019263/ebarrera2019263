@@ -3,20 +3,6 @@
 
 
 
-## Top de Artistas
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://media1.tenor.com/m/4ksiAnMsrY4AAAAC/eladio-dios.gif" alt="Eladio Dios" style="width:200px; height:auto;" />
-  <img src="https://media1.tenor.com/m/p1ULMwVxxdsAAAAd/bailando-anuel-aa.gif" alt="Bailando Anuel AA" style="width:200px; height:auto;" />
-  <img src="https://media1.tenor.com/m/nJG0Rd0hPjoAAAAd/luar-la-l-luar.gif" alt="3letra" style="width:355px; height:auto;" />
-  <img src="https://media1.tenor.com/m/CGew6Pqc4PoAAAAC/pose-jhay-cortez.gif" alt="Pose Jhay Cortez" style="width:200px; height:auto;" />
-</div>
-
-
-
-
-
-
 
 
 ## 🌐 Socials:
@@ -211,7 +197,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ebarrera2019263&icon=9&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Top de Artistas Favoritos
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://media1.tenor.com/m/4ksiAnMsrY4AAAAC/eladio-dios.gif" alt="Eladio Dios" style="width:200px; height:auto;" />
+  <img src="https://media1.tenor.com/m/p1ULMwVxxdsAAAAd/bailando-anuel-aa.gif" alt="Bailando Anuel AA" style="width:200px; height:auto;" />
+  <img src="https://media1.tenor.com/m/nJG0Rd0hPjoAAAAd/luar-la-l-luar.gif" alt="3letra" style="width:355px; height:auto;" />
+  <img src="https://media1.tenor.com/m/CGew6Pqc4PoAAAAC/pose-jhay-cortez.gif" alt="Pose Jhay Cortez" style="width:200px; height:auto;" />
+</div>
 
 
 

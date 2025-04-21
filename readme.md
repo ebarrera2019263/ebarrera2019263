@@ -2,6 +2,8 @@
 ¡Hola! Soy Erick 👨‍💻, estudiante de Ingeniería en Ciencias de la Computación y TI en la Universidad del Valle de Guatemala 🇬🇹. Me apasiona la tecnología, la programación y todo lo que me rete a crecer personal y profesionalmente 💡.<br><br>👨‍🏫 He trabajado como programador junior y técnico informático, usando tecnologías como .NET, Node.js, SQL Server, Vue.js y herramientas de integración continua como Jenkins. Disfruto construir soluciones útiles y aprender algo nuevo cada día 🚀.<br><br>🎧 Amante de la música, el código limpio y los proyectos con propósito.<br>🏋️‍♂️ Fan del gimnasio, la disciplina y el desarrollo personal. Estoy trabajando en mi mejor versión, tanto física como mentalmente.<br><br>🎯 Mi objetivo es convertirme en un profesional integral, conseguir un trabajo remoto estable, y en el futuro, iniciar mi propio negocio en el mundo tech 💼💻.<br><br>“No siempre estás motivado, por eso debes aprender a ser disciplinado.”
 
 
+![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=erickGH&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickGH&layout=compact)
 
 
 
